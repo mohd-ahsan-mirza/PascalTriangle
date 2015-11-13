@@ -43,7 +43,7 @@ public class PascalTriangle {
 	// For testing the function directly above . Prints the Pascal triangle in the familiar format as shown in the document
 	public static void printPascalTriangle(int row) {
 		
-		// Since in the document, the rows start from 0
+		// Assuming the rows start from 0
 		++row;
 		
 		// In row
